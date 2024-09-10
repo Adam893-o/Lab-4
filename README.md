@@ -12,26 +12,26 @@
                 <img src="logo3.png" alt="Website Logo">
             </a>
             <h1>My Site on Sources I Chose</h1>
-        </header>
+        </header> 
         <nav id="main-nav">
             <ul>
-                <li><a href="https://science.nasa.gov/saturn/">Facts about Saturn discovered by NASA</a></li>
-                <li><a href="https://www.healthdirect.gov.au/younger-onset-dementia">Signs of Dementia at a Young Age</a></li>
-                <li><a href="https://www.nintendo.com/us/?srsltid=AfmBOopEi25CL9EGfJ9tDTgBdWFvKcE2_q9WhkvyRCaJ2yeZJIaYY7iO">Catch Up to Latest News of Nintendo Games</a></li>
-                <li><a href="https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/">Why Abraham Lincoln Was Important</a></li>
-                <li><a href="https://www.samsung.com/us/smartphones/galaxy-z-fold6/buy/galaxy-z-fold6-512gb-unlocked-sm-f956uakexaa/">Get the Samsung Galaxy Fold 6</a></li>
+                <li><a href = "http://www.iit.edu">IIT Home</a></li>
+				<li><a href="http://www.google.com">Google</a></li>
+				<li><a href="http://www.microsoft.com">Microsoft</a></li>
+				<li><a href = "http://www.cnn.com">CNN</a></li>
+				<li><a href="http://admissions.iit.edu">IIT Admissions</a></li>
             </ul>
         </nav>
         <main id="content-wrapper">
             <div id="main-content">
                 <h2><b>Here is a Summary of the Articles Recommended</b></h2>
-                <img class="imageR" src="./images/main.png" alt="Main Image">
+                <img class="imageR" src="./images/main.png" alt="Main Image">               
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
-                <ul id="bul1">   
-                </ul>
+                <ul id="bul1">    
+                </ul> 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
                 <ul id="bul2">
                     <li>List 1</li>
