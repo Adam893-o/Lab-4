@@ -3,8 +3,10 @@
 
 <head>
   <meta charset="utf-8">
-  <title>HTML Clean Up Lab</title>
+  <title>My Demo Site</title>
 </head>
+
+
 <body>
   <div id="page-wrapper">
     <header id="header">
@@ -12,7 +14,7 @@
         <img src="images/logo3.png" alt="Acme logo, large and in red">
       </a>
       <h1>My Demo Site</h1>
-    </header>  
+    </header>
     <nav id="main-nav">
       <ul>
         <li><a href="http://www.iit.edu">IIT Home</a></li>
