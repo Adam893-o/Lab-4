@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <title>HTML Clean Up Lab</title>
 </head>
 <body>
@@ -43,7 +43,6 @@
         <div id="center">
           <iframe width="400" height="300" src="https://www.youtube.com/embed/-jn9aaNn8_I?si=D1HhLAWQ5awY9BfU" frameborder="0" allowfullscreen></iframe>
         </div>
-      </div>
       <aside id="side-content">
         <h3>Interesting Articles</h3>
         <ol id="news">
@@ -57,6 +56,5 @@
     <footer id="footer">
       <p>Footer Content is here</p>
     </footer>
-  </div>
 </body>
 </html>
