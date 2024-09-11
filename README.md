@@ -4,7 +4,7 @@
 <head>
   
   <meta charset="utf-8">
-  <title>My Demo Site</title>
+  <title>HTML Clean Up Lab</title>
 </head>
 
 <body>
