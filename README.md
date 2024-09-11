@@ -11,7 +11,7 @@
             <a id="logo1" href="index.html">
                 <img src="logo3.png" alt="Website Logo">
             </a>
-            <h1>My Site on Sources I Chose</h1>
+            <h1>My Demo Site</h1>
         </header> 
         <nav id="main-nav">
             <ul>
