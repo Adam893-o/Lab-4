@@ -6,7 +6,6 @@
   <title>My Demo Site</title>
 </head>
 
-
 <body>
   <div id="page-wrapper">
     <header id="header">
