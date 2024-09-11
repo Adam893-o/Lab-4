@@ -56,5 +56,6 @@
     <footer id="footer">
       <p>Footer Content is here</p>
     </footer>
+      </div>
 </body>
 </html>
