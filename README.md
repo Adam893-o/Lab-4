@@ -14,8 +14,7 @@
         <img src="images/logo3.png" alt="Acme logo, large and in red">
       </a>
       <h1>My Demo Site</h1>
-    </header>
-    
+    </header>  
     <nav id="main-nav">
       <ul>
         <li><a href="http://www.iit.edu">IIT Home</a></li>
@@ -25,7 +24,6 @@
         <li><a href="http://admissions.iit.edu">IIT Admissions</a></li>
       </ul>
     </nav>
-
     <main id="content-wrapper">
       <div id="main-content">
         <h2><strong>This is our h2 Tag</strong></h2>
@@ -47,7 +45,6 @@
           <iframe width="400" height="300" src="https://www.youtube.com/embed/-jn9aaNn8_I?si=D1HhLAWQ5awY9BfU" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
-
       <aside id="side-content">
         <h3>Interesting Articles</h3>
         <ol id="news">
