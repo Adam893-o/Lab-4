@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="utf-8"/>
+  <title>HTML Clean Up Lab</title>
 </head>
 
 <body>
@@ -60,5 +61,4 @@
     </footer>
   </div>
 </body>
-
 </html>
