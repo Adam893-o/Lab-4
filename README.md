@@ -2,9 +2,8 @@
 <html lang="en">
 
 <head>
-  
   <meta charset="utf-8">
-  <title>HTML Clean Up Lab</title>
+  <title>My Demo Site</title>
 </head>
 
 <body>
@@ -68,5 +67,4 @@
     </footer>
   </div>
 </body>
-
 </html>
