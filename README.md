@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="utf-8">
   <title>HTML Clean Up Lab</title>
 </head>
 <body>
   <div id="page-wrapper">
     <header id="header">
-      <a id="logo1" href="index.html"><img src="images/logo3.png" alt="Acme logo, large and in red"></a>
+	  <a id="logo1" href="index.html">
+		<img src="images/logo3.png" alt="Acme logo, large and in red">
+	  </a>
       <h1>My Demo Site</h1>
     </header>
     <nav id="main-nav">
@@ -47,10 +50,14 @@
       <aside id="side-content">
         <h3>Interesting Articles</h3>
         <ol id="news">
-          <li><a href="#">Article 1</a><div><p>Preview of very interesting article article</p></div></li>
-          <li><a href="#">Article 2</a><div><p>Preview of very interesting article article</p></div></li>
-          <li><a href="#">Article 3</a><div><p>Preview of very interesting article article</p></div></li>
-          <li><a href="#">Article 4</a><div><p>Preview of very interesting article article</p></div></li>
+          <li><a href="#">Article 1</a>
+			<p>Preview of very interesting article</p></li>
+          <li><a href="#">Article 2</a>
+			<p>Preview of very interesting article</p></li>
+          <li><a href="#">Article 3</a>
+			<p>Preview of very interesting article</p></li>
+          <li><a href="#">Article 4</a>
+			<p>Preview of very interesting article</p></li>
         </ol>
       </aside>
     </main>
